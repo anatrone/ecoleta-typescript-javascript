@@ -1,6 +1,6 @@
 
 ![Ecoleta](https://raw.githubusercontent.com/anatrone/Ecoleta/master/web/src/assets/logo.png)
-> O Ecoleta é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+> Ecoleta is a Web and Mobile application to help people find collection points for recycling.
 
 ![MIT](https://camo.githubusercontent.com/147b1b65b460bce94741c8a8d4c637255c055123/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61646525323062792d526f636b6574736561742d253233373531394331)
 ![RocketSeat](https://camo.githubusercontent.com/d8dac8d9c9589cd4f784c881cfe96c23f5462983/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7669746f7273657272616e6f2f65636f6c6574613f636f6c6f723d253233373531394331)
