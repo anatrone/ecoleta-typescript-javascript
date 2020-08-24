@@ -7,11 +7,11 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![support for me](https://img.shields.io/badge/support%20for%20me%20on-paypal-brightgreen)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4Q8ABHX2ZVV46&currency_code=USD&source=url)
 
-Essa aplicação foi construída na trilha Booster da Next Level Week distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente.
+This application was built on the Next Level Week Booster track distributed by Rocketseat. The idea of creating an application focused on the environment arose from the coincidence of the course date and the date of the environment week.
 
 ## Desenvolvimento
 
-Para o desenvolvimento do mesmo, foi utilizado TypeScript, Node, ReactJS e React Native. Foi utilizado conceitos e processos do curso.
+For the development of it, TypeScript, Node, ReactJS and React Native were used. Course concepts and processes were used.
 
 ![RocketSeat](https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/528611/528611-1529426771233-408cb5b776122.jpg)
 
